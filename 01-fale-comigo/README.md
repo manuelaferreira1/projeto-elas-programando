@@ -6,6 +6,7 @@
 ![Tela do Aplicativo](./image.png)
 
 ##Como testar
+
 *Se você estiver em um dispositivo Android, pode baixar e instalar o arquivo `talktome.apk` disponível nesta pasta para testar o aplicativo diretamente no seu celular ou através do MIT AI2 Companion!
 
 ##Funcionalidades
