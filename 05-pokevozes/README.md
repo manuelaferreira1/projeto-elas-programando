@@ -3,7 +3,7 @@
 Este projeto foi desenvolvido dentro do projeto de extensão **Elas Programando**. O aplicativo funciona como uma mini-Pokédex interativa onde o utilizador pode clicar nos botões dos seus Pokémons favoritos para escutar os seus sons originais e visualizar a sua imagem na tela.
 
 ## Demonstração do App
-<video src="./pokevozes.mp4" controls width="300px"></video>
+![Demonstração com Som](./pokevozes.mp4)
 
 ## Funcionalidades
 * **Galeria de Sons:** Reprodução instantânea do áudio com o grito característico de cada Pokémon cadastrado.
