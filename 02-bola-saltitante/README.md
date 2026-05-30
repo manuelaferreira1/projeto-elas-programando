@@ -3,7 +3,7 @@
 O **Ball Bounce** é um projeto focado no desenvolvimento de lógica de movimento automático e animações interativas dentro do projeto de extensão **Elas Programando**. O aplicativo simula o movimento de uma bola que rebate nas bordas da tela e interage com o usuário.
 
 # Demonstração do App
-![Demonstração do Aplicativo](./WhatsApp Video 2026-05-30 at 09.07.44.gif)
+![Demonstração do Aplicativo](./app2.gif)
 
 ## Funcionalidades
 * **Movimento Contínuo:** Uma bola que se move sozinha pela tela com velocidade e direção definidas.
