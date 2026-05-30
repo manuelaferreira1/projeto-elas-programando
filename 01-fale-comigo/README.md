@@ -7,7 +7,7 @@
 
 ##Como testar
 
-*Se você estiver em um dispositivo Android, pode baixar e instalar o arquivo `talktome.apk` disponível nesta pasta para testar o aplicativo diretamente no seu celular ou através do MIT AI2 Companion!
+*Se você estiver em um dispositivo Android, pode baixar e instalar o arquivo `talktome.apk` disponível nesta pasta para testar o projeto diretamente no seu celular através do MIT AI2 Companion!
 
 ##Funcionalidades
 * **Entrada de Texto Dinâmica:** Campo para digitar livremente a mensagem que deseja ouvir.
