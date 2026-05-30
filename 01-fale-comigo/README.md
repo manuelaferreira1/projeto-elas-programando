@@ -1,12 +1,12 @@
 #Projeto 01: Fale Comigo (Talk To Me)
 
-Este foi o meu projeto inicial desenvolvido no projeto de extensão **Elas Programando**. O aplicativo tem uma interface direta que permite ao usuário digitar qualquer frase e, ao clicar no botão, o celular reproduz o texto em formato de áudio.
+*Este foi o meu projeto inicial desenvolvido no projeto de extensão **Elas Programando**. O aplicativo tem uma interface direta que permite ao usuário digitar qualquer frase e, ao clicar no botão, o celular reproduz o texto em formato de áudio.
 
 ## Demonstração
 ![Tela do Aplicativo](./image.png)
 
 ##Como testar
-Se você estiver em um dispositivo Android, pode baixar e instalar o arquivo `talktome.apk` disponível nesta pasta para testar o aplicativo diretamente no seu celular ou através do MIT AI2 Companion!
+*Se você estiver em um dispositivo Android, pode baixar e instalar o arquivo `talktome.apk` disponível nesta pasta para testar o aplicativo diretamente no seu celular ou através do MIT AI2 Companion!
 
 ##Funcionalidades
 * **Entrada de Texto Dinâmica:** Campo para digitar livremente a mensagem que deseja ouvir.
