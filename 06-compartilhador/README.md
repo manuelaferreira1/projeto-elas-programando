@@ -1,14 +1,34 @@
-# Projeto 06: Compartilhador 
+# Projeto 06: Compartilhador Multimédia
 
 Este projeto foi desenvolvido no âmbito do projeto de extensão **Elas Programando**, com o objetivo de explorar a integração do aplicativo com os recursos e sensores nativos do smartphone. O aplicativo permite ao utilizador capturar fotos, gravar vídeos ou introduzir textos personalizados e partilhá-los diretamente através de outras aplicações (como WhatsApp, e-mail ou redes sociais).
 
-## Demonstração do App
-![Demonstração do Aplicativo](./compartilhador.gif)
+## Interface do Aplicativo
+Aqui está o design estruturado dentro do MIT App Inventor:
 
-## Funcionalidades
-* **Captura de Imagem e Vídeo:** Integração direta com a câmara fotográfica e a filmadora nativas do telemóvel.
-* **Envio de Mensagens Personalizadas:** Campo de texto estruturado para o utilizador redigir mensagens para partilha.
-* **Componente de Partilha Avançada:** Acionamento do menu nativo do sistema operativo para enviar os ficheiros e textos escolhidos.
+![Design da Interface do App](./interface.png)
+
+---
+
+## Funcionalidades e Demonstrações
+
+O projeto foi dividido em três recursos principais de interação com o hardware do telemóvel:
+
+### 1. Partilha de Texto
+Permite que o utilizador digite qualquer mensagem personalizada e a envie diretamente para outras plataformas utilizando o ecossistema nativo do sistema operativo.
+
+![Demonstração Partilha de Texto](./gif1.gif)
+
+### 2. Captura e Partilha de Foto
+Invocação do hardware da câmara fotográfica para registar uma imagem em tempo real e passá-la automaticamente para o menu de envio.
+
+![Demonstração Captura de Foto](./gif2.gif)
+
+### 3. Gravação e Partilha de Vídeo
+Integração com a filmadora nativa do telemóvel para gravar pequenos clipes e disponibilizá-los para partilha imediata.
+
+![Demonstração Gravação de Vídeo](./gif3.gif)
+
+---
 
 ## Conceitos de Programação Aprendidos
 * **Uso de Recursos Nativos do Hardware:** Aprendizagem prática sobre como invocar as funções da câmara do telemóvel (`Camera.TakePicture`) e da filmadora (`Camcorder.RecordVideo`).
