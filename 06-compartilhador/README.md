@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido no âmbito do projeto de extensão **Elas Programando**, com o objetivo de explorar a integração do aplicativo com os recursos e sensores nativos do smartphone. O aplicativo permite ao utilizador capturar fotos, gravar vídeos ou introduzir textos personalizados e partilhá-los diretamente através de outras aplicações (como WhatsApp, e-mail ou redes sociais).
 
-## 📱 Demonstração do App
+## Demonstração do App
 ![Demonstração do Aplicativo](./compartilhador.gif)
 
 ## Funcionalidades
