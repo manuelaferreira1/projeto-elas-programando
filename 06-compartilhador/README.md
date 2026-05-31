@@ -16,17 +16,17 @@ O projeto foi dividido em três recursos principais de interação com o hardwar
 ### 1. Partilha de Texto
 Permite que o utilizador digite qualquer mensagem personalizada e a envie diretamente para outras plataformas utilizando o ecossistema nativo do sistema operativo.
 
-![Demonstração Partilha de Texto](./gif1.gif)
+![Demonstração Partilha de Texto](./gif1.mp4)
 
 ### 2. Captura e Partilha de Foto
 Invocação do hardware da câmara fotográfica para registar uma imagem em tempo real e passá-la automaticamente para o menu de envio.
 
-![Demonstração Captura de Foto](./gif2.gif)
+![Demonstração Captura de Foto](./gif2.mp4)
 
 ### 3. Gravação e Partilha de Vídeo
 Integração com a filmadora nativa do telemóvel para gravar pequenos clipes e disponibilizá-los para partilha imediata.
 
-![Demonstração Gravação de Vídeo](./gif3.gif)
+![Demonstração Gravação de Vídeo](./gif3.mp4)
 
 ---
 
