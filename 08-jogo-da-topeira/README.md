@@ -1,11 +1,12 @@
-# Projeto 08: Jogo da Topeira 
+# Projeto 08: Jogo da Topeira (Whack-a-Mole)
 
 Este projeto foi desenvolvido dentro do projeto de extensão **Elas Programando**. Trata-se de uma versão mobile do clássico jogo "Whack-a-Mole", onde o objetivo do jogador é tocar na topeira que surge em posições aleatórias da tela antes que ela mude de lugar, acumulando o máximo de pontos possível.
 
 ## Demonstração do App
-Como este vídeo é super leve e rápido, você pode assistir ao funcionamento do jogo diretamente no player abaixo:
 
-<video src="./tope game.mp4" controls width="300px"></video>
+> 🎥 **Assista ao jogo em ação!** Clique no link abaixo para abrir o vídeo demonstrativo:
+>
+> 👉 [**Clique aqui para assistir ao vídeo do jogo**](./tope%20game.mp4)
 
 ---
 
