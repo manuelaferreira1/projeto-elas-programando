@@ -5,7 +5,7 @@ Este projeto foi desenvolvido no âmbito do projeto de extensão **Elas Programa
 ## Demonstração do App
 Veja abaixo o sensor em funcionamento, alterando as imagens de estado e contando os passos em tempo real:
 
-![Demonstração do Pedómetro](pedometro%(1).gif)
+![Demonstração do Pedómetro](pedometro.gif)
 
 ---
 
